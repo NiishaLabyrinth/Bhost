@@ -11,11 +11,11 @@
         "DalamudApiLevel": 5,
         "IconUrl": "https://i.imgur.com/CuNuD2c.png",
         "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
+        "DownloadLinkInstall": "https://github.com/NiishaLabyrinth/Bhost/raw/main/BHost/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NiishaLabyrinth/Bhost/raw/main/BHost/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NiishaLabyrinth/Bhost/raw/main/BHost/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
     }
