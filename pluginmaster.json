@@ -1,0 +1,22 @@
+[
+    {
+        "Author": "niishalabyrinth",
+        "Name": "bhost",
+        "Punchline": "Bhost",
+        "Description": "",
+        "InternalName": "Bhost",
+        "AssemblyVersion": "2.3.0.2",
+        "RepoUrl": "https://github.com/NiishaLabyrinth/Bhost",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 5,
+        "IconUrl": "https://github.com/Eternita-S/MyDalamudPlugins/raw/main/Weatherman/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NiishaLabyrinth/Bhost/blob/02000a2a0449b8ce87879eea66168d9d49736862/BHost/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    }
+]
