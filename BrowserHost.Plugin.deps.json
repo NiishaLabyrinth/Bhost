@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BrowserHost.Plugin/1.0.0": {
+        "dependencies": {
+          "BrowserHost.Common": "1.0.0",
+          "Microsoft.CSharp": "4.7.0",
+          "SharedMemory": "2.2.3"
+        },
+        "runtime": {
+          "BrowserHost.Plugin.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "SharedMemory/2.2.3": {
+        "dependencies": {
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/SharedMemory.dll": {
+            "assemblyVersion": "2.2.3.0",
+            "fileVersion": "2.2.3.0"
+          }
+        }
+      },
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "BrowserHost.Common/1.0.0": {
+        "runtime": {
+          "BrowserHost.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BrowserHost.Plugin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "SharedMemory/2.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eR91cl7nHM9YzMxRukwR6jZzO1Dx31agMlgSYgJ3pOeNHXdXesqtmMA+7WbEw1A/cBk5P5kjAUNOMvBXkwvyaQ==",
+      "path": "sharedmemory/2.2.3",
+      "hashPath": "sharedmemory.2.2.3.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "BrowserHost.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
